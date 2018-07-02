@@ -1,5 +1,5 @@
 # pam
-thelink to my project:
+thelink to my project: https://nuelcu.github.io/pam/
 
 # Pixel Art Maker Project
 
